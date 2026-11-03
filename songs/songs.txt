@@ -3,6 +3,7 @@ holiday.mp3
 my_hero.mp3
 roommates.mp3
 starlight.mp3
+thank_you_for_the_venom.mp3
 the_less_i_know_the_better.mp3
 this_fffire.mp3
 what_you_know.mp3
